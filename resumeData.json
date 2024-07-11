@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Jasmine Zhang",
+    "description": "Passionate about learning technology and sharing knowledge",
+    "image": "profile.jpeg",
+    "bio": "I’m Jasmine,an IT student at UWA with a passion for software engineering.My academic journey has been an exciting exploration of web development,programming,cybersecurity and data analysis.Every project and course has fueled my enthusiasm for creating innovative tech solutions.Besides,I dive into extracurricular activities that sharpen my communication and teamwork skills.I’m eager to connect with professionals in the tech industry,seek mentorship,and find internship opportunities to apply my skills in real-world scenarios. ",
+    "contactmessage": "Thank you for your feedback.",
+    "email": "zhangmin.jasmine2020@gmail.com",
+    "phone": "(04) 1234 5678",
+    "github": "https://github.com/JasAAA",
+    "project": "https://github.com/JasAAA",
+    "address": {
+      "line1": "Address: Nedlands",
+      "line2": "City: Perth",
+      "line3": "Country: Australia"
+    },
+    "youtube": {
+      "english": {
+        "name": "###",
+        "url": "###"
+      },
+      "chinese": {
+        "name": "###",
+        "url": "###"
+      }
+    },
+    "website": "###",
+    "resumedownload": "./images/resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/JasAAA",
+        "className": "fa fa-github"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin-square"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technical Skills",
+    "education": [
+      {
+        "school": "The University of Western Australia",
+        "degree": "Master of Information Technology",
+        "graduated": "2023-2025",
+        "description": ""
+      }
+    ],
+    "experience": [
+      {
+        "company": "###",
+        "title": "###",
+        "years": "Augest 2023 - Present",
+        "description": "###. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Backend Development (Infrastructure, API, Database)",
+        "level": "95%"
+      },
+      {
+        "name": "Frontend Development (React, Angular)",
+        "level": "85%"
+      },
+      {
+        "name": "Embeded Software development (C/C++)",
+        "level": "80%"
+      },
+      {
+        "name": "Leadership & Management",
+        "level": "75%"
+      },
+      {
+        "name": "Passion & Eager to learn",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Project",
+        "description": "###",
+        "category": "Project",
+        "image": "profile.jpeg",
+        "url": "https://github.com/JasAAA"
+      },
+      {
+        "title": "Project",
+        "description": "###",
+        "category": "Project",
+        "image": "profile.jpeg",
+        "url": "https://github.com/JasAAA"
+      },
+      {
+        "title": "Project",
+        "description": "###",
+        "category": "Project",
+        "image": "profile.jpeg",
+        "url": "https://github.com/JasAAA"
+      },
+      {
+        "title": "Project",
+        "description": "###",
+        "category": "Project",
+        "image": "profile.jpeg",
+        "url": "https://github.com/JasAAA"
+      }
+    ]
+  }
+}
