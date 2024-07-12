@@ -1,5 +1,5 @@
-# Cyberlark David Resume Template
-![Status](https://github.com/David-Cyberlark/PersonalCV/actions/workflows/build.yml/badge.svg)
+# Personal Resume Template
+url:https://jasaaa.github.io/Jasmine-CV/
 
 # Run Project
 ### 1. Clone the project
