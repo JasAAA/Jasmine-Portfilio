@@ -35,7 +35,7 @@
 
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com",
+        "url": "https://www.linkedin.com/in/jasmine-zhang-173a48291/",
         "className": "fa fa-linkedin-square"
       }
     ]
@@ -52,24 +52,37 @@
     ],
     "experience": [
       {
-        "company": "###",
-        "title": "###",
-        "years": "Augest 2023 - Present",
-        "description": "###. "
+        "company": "UWA International Student Support Team",
+        "title": "International Student Engagement Ambassador",
+        "years": "July 2024 - Present",
+        "description": "Helping international students as they settle into life in Perth.Supporting new students in various aspects and make their transition smooth and enjoyable.Event assisting during orientation week and throughout the semester.Acting as a positive role model and ambassador for UWA. "
+      },
+      {
+        "company": "UWA student Engagement Team",
+        "title": "Uni Mentor",
+        "years": "July 2024 - Present",
+        "description": "Supporting new students before and during the semester.Providing mentees information about UWA’s services. Maintaining contact and be responsive to mentees requests for support. "
+      },
+      {
+        "company": "Girls Programming Network",
+        "title": "Tutor",
+        "years": "May 2024 - Present",
+        "description": "Mentor high school girls by offering hands-on guidance during workshops,adeptly identifying and resolving syntax errors.Enhancing participants' coding proficiency and confidence in problem-solving. "
       }
     ],
     "skills": [
       {
-        "name": "Backend Development (Infrastructure, API, Database)",
-        "level": "95%"
-      },
-      {
-        "name": "Frontend Development (React, Angular)",
+        "name": "Frontend Development (HTML,CSS,JavaScript,React)",
         "level": "85%"
       },
       {
-        "name": "Embeded Software development (C/C++)",
+        "name": "Backend Development (API, Database,Flask)",
         "level": "80%"
+      },
+
+      {
+        "name": "Data Analysis (R)",
+        "level": "75%"
       },
       {
         "name": "Leadership & Management",
@@ -87,15 +100,15 @@
         "title": "Project",
         "description": "###",
         "category": "Project",
-        "image": "profile.jpeg",
+        "image": "nft.png",
         "url": "https://github.com/JasAAA"
       },
       {
         "title": "Project",
         "description": "###",
         "category": "Project",
-        "image": "profile.jpeg",
-        "url": "https://github.com/JasAAA"
+        "image": "notepad.png",
+        "url": "https://jasaaa.github.io/Notepad/"
       },
       {
         "title": "Project",
