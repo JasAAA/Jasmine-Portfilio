@@ -472,10 +472,10 @@ ul#nav li.current a {
   background: #fff;
   overflow: hidden;
   position: relative;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
-  height: 100px; /* Set a fixed height if needed */
-  width: 150px; /* Set a fixed width if needed */
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 150px;
 
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -532,10 +532,10 @@ ul#nav li.current a {
   margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
-  max-width: 100%; /* Ensure the image scales properly */
-  max-height: 100%; /* Ensure the image scales properly */
-  display: block; /* Remove any default inline spacing */
-  margin: auto; /* Center the image in the flex container */
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin: auto;
 }
 .portfolio-item .portfolio-item-meta {
   padding: 18px;
