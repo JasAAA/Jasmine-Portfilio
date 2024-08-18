@@ -1,5 +1,5 @@
 # Personal Resume Template
-url:https://jasaaa.github.io/Jasmine-CV/
+https://jasaaa.github.io/Jasmine-Portfilio/
 
 # Run Project
 ### 1. Clone the project
