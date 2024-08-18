@@ -97,31 +97,31 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Project",
-        "description": "###",
+        "title": "NFT Marketplace",
+        "description": "Flask",
         "category": "Project",
-        "image": "nft.png",
-        "url": "https://github.com/JasAAA"
+        "image": "NFT.png",
+        "url": "https://www.youtube.com/watch?v=IgiaktdPOgw"
       },
       {
-        "title": "Project",
-        "description": "###",
+        "title": "Cards Match Game",
+        "description": "JavaScript",
         "category": "Project",
-        "image": "notepad.png",
-        "url": "https://jasaaa.github.io/Notepad/"
+        "image": "memoryGame.png",
+        "url": "https://jasaaa.github.io/CardsMatchGame/"
       },
       {
-        "title": "Project",
-        "description": "###",
+        "title": "Snake Game",
+        "description": "Python",
         "category": "Project",
-        "image": "profile.jpeg",
-        "url": "https://github.com/JasAAA"
+        "image": "snake1.png",
+        "url": "https://github.com/JasAAA/SnakeGame.git"
       },
       {
-        "title": "Project",
-        "description": "###",
+        "title": "More Projects",
+        "description": "To be continued",
         "category": "Project",
-        "image": "profile.jpeg",
+        "image": "continued.jpg",
         "url": "https://github.com/JasAAA"
       }
     ]
